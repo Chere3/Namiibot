@@ -1,0 +1,2 @@
+# Namiibot
+Introducción a nami!
